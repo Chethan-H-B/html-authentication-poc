@@ -24,3 +24,25 @@ HTML
 Bootstrap 5
 CSS
 JavaScript
+
+## Screenshots
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Register Page
+
+![Register](screenshots/register.png)
+
+### Forgot Password
+
+![Forgot](screenshots/forgot-password.png)
+
+### Reset Password
+
+![Reset](screenshots/reset-password.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
