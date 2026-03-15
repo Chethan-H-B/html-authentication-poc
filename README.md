@@ -1,22 +1,26 @@
-# HTML Authentication System (POC)
+# Authentication System (Bootstrap SaaS UI)
 
-This is a simple HTML authentication system created using only HTML.
-
-## Pages Included
-
-- Login Page
-- Registration Page
-- Forgot Password Page
-- Reset Password Page
-- Dashboard
+Professional authentication UI built using Bootstrap 5.
 
 ## Features
 
-- Proper page redirections using anchor tags
-- Basic HTML structure
-- No CSS or JavaScript used
-- Created for internship assessment
+Responsive UI
+Login Page
+Register Page
+Forgot Password
+Reset Password
+Dashboard
 
-## How to run
+## Bonus Features
 
-Open login.html in browser and navigate between pages.
+Password toggle
+Password strength indicator
+Dark mode
+Professional SaaS layout
+
+## Tech Stack
+
+HTML
+Bootstrap 5
+CSS
+JavaScript
